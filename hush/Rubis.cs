@@ -72,3 +72,4 @@ static class Rubis
         return $"https://api.rubis.app/v2/scrap/{scrapId}/raw";
     }
 }
+
