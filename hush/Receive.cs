@@ -96,3 +96,4 @@ static class Receive
         File.Move(tempFile, outputFile, overwrite: true);
     }
 }
+
