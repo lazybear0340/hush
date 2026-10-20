@@ -31,3 +31,4 @@ static class Compression
         return output.ToArray();
     }
 }
+
