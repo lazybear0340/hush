@@ -7,3 +7,4 @@ Files are compressed using Zstandard when beneficial and can optionally be encry
 Hush supports arbitrary file formats and aims to preserve original file contents during transfer.
 
 Built with C# and .NET.
+
