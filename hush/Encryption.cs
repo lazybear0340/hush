@@ -75,3 +75,4 @@ static class Encryption
         return argon2.GetBytes(KeySize);
     }
 }
+
